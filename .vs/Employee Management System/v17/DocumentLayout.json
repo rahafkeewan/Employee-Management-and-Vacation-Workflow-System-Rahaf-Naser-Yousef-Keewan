@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\entites\\workflowdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\entites\\workflowdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\entites\\vacationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\entites\\vacationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\repositories\\vacationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\repositories\\vacationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\repositories\\positionrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\repositories\\positionrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\interfaces\\ivacationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\interfaces\\ivacationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\interfaces\\ipositionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\interfaces\\ipositionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|c:\\users\\msi-gf63\\desktop\\sky software\\employee management and vacation workflow system\\employee management system\\employee management system\\migrations\\20250214234327_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45838F0-ED0B-4424-A43B-1F0C8F9096BE}|Employee Management System\\Employee Management System.csproj|solutionrelative:employee management system\\migrations\\20250214234327_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250214234327_inital.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Migrations\\20250214234327_inital.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Migrations\\20250214234327_inital.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Migrations\\20250214234327_inital.cs",
+              "RelativeToolTip": "Employee Management System\\Migrations\\20250214234327_inital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:43:27.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VacationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Entites\\VacationRequest.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Entites\\VacationRequest.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Entites\\VacationRequest.cs",
+              "RelativeToolTip": "Employee Management System\\Entites\\VacationRequest.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:41:03.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkflowDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Entites\\WorkflowDbContext.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Entites\\WorkflowDbContext.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Entites\\WorkflowDbContext.cs",
+              "RelativeToolTip": "Employee Management System\\Entites\\WorkflowDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwD8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:35:56.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Program.cs",
+              "RelativeToolTip": "Employee Management System\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwFsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:34:22.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\ServiceExtensions.cs",
+              "RelativeToolTip": "Employee Management System\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:34:21.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VacationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Repositories\\VacationRepository.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Repositories\\VacationRepository.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Repositories\\VacationRepository.cs",
+              "RelativeToolTip": "Employee Management System\\Repositories\\VacationRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:34:19.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PositionRepository .cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Repositories\\PositionRepository .cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Repositories\\PositionRepository .cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Repositories\\PositionRepository .cs",
+              "RelativeToolTip": "Employee Management System\\Repositories\\PositionRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:34:18.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employee Management System\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAewDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:34:15.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Employee Management System\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:34:04.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IVacationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Interfaces\\IVacationRepository.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Interfaces\\IVacationRepository.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Interfaces\\IVacationRepository.cs",
+              "RelativeToolTip": "Employee Management System\\Interfaces\\IVacationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:33:59.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Employee Management System\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:33:44.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPositionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Interfaces\\IPositionRepository.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Interfaces\\IPositionRepository.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Interfaces\\IPositionRepository.cs",
+              "RelativeToolTip": "Employee Management System\\Interfaces\\IPositionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:33:54.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee Management System\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\msi-GF63\\Desktop\\Sky Software\\Employee Management and Vacation Workflow System\\Employee Management System\\Employee Management System\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Employee Management System\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:33:49.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
